@@ -23,7 +23,7 @@ node_modules/ethereumjs-testrpc/build/cli.node.js
 ````
 
 
-Run the following commands to open the node console then deploy your contract to the test chain
+On another tab run the following commands to open the node console then deploy your contract to the test chain
 
 ````
 rafazzevedo:~/voting_blockchain_study$ node
