@@ -39,3 +39,8 @@ rafazzevedo:~/voting_blockchain_study$ node
 > deployedContract.address
 > contractInstance = VotingContract.at(deployedContract.address)
 ````
+
+
+#Credits
+This project is exactly the same that [maheshmurthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2), but I have updated the web3 API commands.
+
