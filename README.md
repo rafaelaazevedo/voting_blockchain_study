@@ -42,5 +42,5 @@ rafazzevedo:~/voting_blockchain_study$ node
 
 
 ## Credits
-This project is the same that maheshmurthy published [here] (https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2, I have just updated the web3 API commands.
+This project is the same that maheshmurthy published [here](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2), I have just updated the web3 API commands.
 
