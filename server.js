@@ -52,7 +52,7 @@ web3.eth.getAccounts()
             .then((result) => {
                 deployedContract = result;
                 // console.log('deployedContract', deployedContract);
-                return deployedContract.methods.totalVotesFor(asciiToHex('Rama')).call();
+                return deployedContract.methods.totalVotesSoFar(asciiToHex('Rama')).call();
             })
             .then((votesRama) => {
                 console.log('votesRama', votesRama);
@@ -60,7 +60,7 @@ web3.eth.getAccounts()
             })
             .then((voteResult) => {
                 // console.log('voteResult', voteResult);
-                return deployedContract.methods.totalVotesFor(asciiToHex('Rama')).call();
+                return deployedContract.methods.totalVotesSoFar(asciiToHex('Rama')).call();
             })
             .then((votesRama) => {
                 console.log('votesRama', votesRama);
