@@ -19,7 +19,7 @@ npm install
 After all dependencies are installed, run the service with:
 
 ````
-node_modules/ethereumjs-testrpc/build/cli.node.js
+node_modules/.bin/ganache-cli
 ````
 
 
